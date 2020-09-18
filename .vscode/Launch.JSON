@@ -1,0 +1,204 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - testaLivro",
+            "request": "launch",
+            "mainClass": "autor2.testaLivro",
+            "projectName": "aulaspoo_79dcecb0"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - testaLivro",
+            "request": "launch",
+            "mainClass": "autor.testaLivro",
+            "projectName": "aulaspoo_79dcecb0"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteImovel",
+            "request": "launch",
+            "mainClass": "imovel.TesteImovel",
+            "projectName": "aulaspoo_ae172408"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteFuncionario",
+            "request": "launch",
+            "mainClass": "heranca2.TesteFuncionario",
+            "projectName": "aulaspoo_ae172408"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteFuncionario",
+            "request": "launch",
+            "mainClass": "heranca2.TesteFuncionario",
+            "projectName": "aulaspoo_79dcecb0"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteSeries",
+            "request": "launch",
+            "mainClass": "TesteSeries",
+            "projectName": "aulaspoo_ae172408"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteEstoque",
+            "request": "launch",
+            "mainClass": "newexercicio.TesteEstoque",
+            "projectName": "aulaspoo_79dcecb0"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Estoque",
+            "request": "launch",
+            "mainClass": "newexercicio.Estoque",
+            "projectName": "aulaspoo_79dcecb0"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteElevador",
+            "request": "launch",
+            "mainClass": "elevador.TesteElevador",
+            "projectName": "aulaspoo_79dcecb0"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteProduto",
+            "request": "launch",
+            "mainClass": "produto.TesteProduto"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteCarro",
+            "request": "launch",
+            "mainClass": "carro.TesteCarro",
+            "projectName": "aulaspoo_1bd6e284"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteElevador",
+            "request": "launch",
+            "mainClass": "elevador.TesteElevador",
+            "projectName": "aulaspoo_1bd6e284"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteHumano",
+            "request": "launch",
+            "mainClass": "humano.TesteHumano",
+            "projectName": "GitHub_14b2ab45"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestaC",
+            "request": "launch",
+            "mainClass": "aula07102019.TestaC",
+            "projectName": "GitHub_14b2ab45"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - C",
+            "request": "launch",
+            "mainClass": "aula07102019.C",
+            "projectName": "GitHub_14b2ab45"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteAnimal",
+            "request": "launch",
+            "mainClass": "pessoa.TesteAnimal",
+            "projectName": "GitHub_14b2ab45"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteProduto",
+            "request": "launch",
+            "mainClass": "produto.TesteProduto",
+            "projectName": "aulaspoo_1bd6e284"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteConta",
+            "request": "launch",
+            "mainClass": "conta.TesteConta",
+            "projectName": "aulaspoo_1bd6e284"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteCliente",
+            "request": "launch",
+            "mainClass": "Cliente.TesteCliente",
+            "projectName": "aulaspoo_1bd6e284"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteAgencia",
+            "request": "launch",
+            "mainClass": "agencia.TesteAgencia",
+            "projectName": "aulaspoo_1bd6e284"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteLivro",
+            "request": "launch",
+            "mainClass": "livro.TesteLivro",
+            "projectName": "aulaspoo_1bd6e284"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteVariaveis",
+            "request": "launch",
+            "mainClass": "TesteVariaveis",
+            "projectName": "aulaspoo_1bd6e284"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteElevador",
+            "request": "launch",
+            "mainClass": "TesteElevador",
+            "projectName": "aulaspoo_1bd6e284"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteVar",
+            "request": "launch",
+            "mainClass": "TesteVar",
+            "projectName": "aulaspoo_1bd6e284"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Variaveis",
+            "request": "launch",
+            "mainClass": "Variaveis",
+            "projectName": "aulaspoo_1bd6e284"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteLivro",
+            "request": "launch",
+            "mainClass": "TesteLivro",
+            "projectName": "aulaspoo_1bd6e284"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteAnimal",
+            "request": "launch",
+            "mainClass": "TesteAnimal",
+            "projectName": "aulaspoo_1bd6e284"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteBat",
+            "request": "launch",
+            "mainClass": "TesteBat"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteFunc",
+            "request": "launch",
+            "mainClass": "TesteFunc"
+        }
+    ]
+}
